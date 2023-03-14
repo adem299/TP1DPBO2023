@@ -22,7 +22,7 @@ Terdapat 7 class diantaranya:
    Terdiri dari attribut listMahasiswa[], dan namaProdi juga terdapat beberapa methode seperti get(),set(), dan showListMhs(). Class ini mengcomposite class Mahasiswa untuk mendapatkan semua data Mahasiswa.
 
 # Alur Program
-1. Progaram menampilkan Menu
+1. Program menampilkan Menu
 
 ![Screenshot from 2023-03-14 19-18-03](https://user-images.githubusercontent.com/100661834/225012014-3f0257b9-3845-4b60-b3ef-853167e66cc9.png)
 
